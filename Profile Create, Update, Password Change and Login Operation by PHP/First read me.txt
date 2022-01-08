@@ -1,0 +1,4 @@
+Before throwing of to Xampp, Wamp or Ampps local path file create a database by yourself in PhpMyAdmin 
+and now change the rootname and database name from db/dbconnect.php code. [or can name it by following name exist in dbconnect.php]
+
+finally go to every file and their code and change or rename their database name, query name, or variable name for output result.
